@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tsegab</h1>
-<h3 align="left">A passionate full stack developer from Ethiopia</h3>
+<h1 align="center">Hey 👋, I'm Tsegab</h1>
 
 - 💻 I'm a full stack web developer
 
@@ -9,9 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [tsegab.netlify.app](tsegab.netlify.app)
 
-- 💬 Ask me about **react , flutter , node.js**
-
-- 📫 How to reach me **tsegabbekele@gmail.com**
+- 📧 How to reach me **tsegabbekele@gmail.com**
 
 <h3 align="left">🤝Connect with me:</h3>
 <p align="left">
