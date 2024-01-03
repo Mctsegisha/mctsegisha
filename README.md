@@ -4,8 +4,6 @@
 
 - 📱 I make apps for Android and iOs with flutter
 
-- 🎓 Currently I'm Information Technology Student ( Graduating class in 2022)
-
 - 👨‍💻 All of my projects are available at [tsegab.netlify.app](tsegab.netlify.app)
 
 - 📧 How to reach me **tsegabbekele@gmail.com**
