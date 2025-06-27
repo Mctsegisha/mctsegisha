@@ -4,7 +4,7 @@
 
 - 📱 I make apps for Android and iOs with flutter
 
-- 👨‍💻 All of my projects are available at [tsegab.netlify.app](tsegab.netlify.app)
+- 👨‍💻 All of my projects are available at [tsegabbekele.netlify.app](tsegabbekele.netlify.app)
 
 - 📧 How to reach me **tsegabbekele@gmail.com**
 
